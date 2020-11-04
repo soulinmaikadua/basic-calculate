@@ -1,0 +1,26 @@
+{
+  "name": "basic-calculate",
+  "version": "1.0.0",
+  "description": "basic calculate",
+  "main": "app.js",
+  "scripts": {
+    "test": "soulin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulinmaikadua/basic-calculate.git"
+  },
+  "keywords": [
+    "calculate",
+    "basicmath"
+  ],
+  "author": "soulinmaikadua <soulinmaikadua@gmail.com> (https://github.com/soulinmaikadua/basic-calculate.git)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soulinmaikadua/basic-calculate/issues"
+  },
+  "homepage": "https://github.com/soulinmaikadua/basic-calculate#readme",
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
